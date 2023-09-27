@@ -1,0 +1,2 @@
+folder:/home/serban/folder_one
+backup:/home/serban/folder_two

@@ -1,0 +1,71 @@
+[2023-09-27 22:58:28]Start
+[2023-09-27 22:58:28]config file: NOT FOUND
+[2023-09-27 22:58:37]folder: NOT FOUND
+[2023-09-27 23:01:12]Start
+[2023-09-27 23:01:12]config file: NOT FOUND
+[2023-09-27 23:01:31]config file: CREATED
+[2023-09-27 23:01:31]folder: ONLINE
+[2023-09-27 23:01:31]backup: ONLINE
+[2023-09-27 23:01:31]test.txt is copied
+[2023-09-27 23:01:31]CV_SerbanPricop.pdf is copied
+[2023-09-27 23:06:40]Start
+[2023-09-27 23:06:40]config file: OK
+[2023-09-27 23:06:40]folder: ONLINE
+[2023-09-27 23:06:40]backup: ONLINE
+[2023-09-27 23:06:40]test.txt is updated
+[2023-09-27 23:06:40]CV_SerbanPricop.pdf is up to date
+[2023-09-27 23:06:55]file is up to date
+[2023-09-27 23:08:57]Start
+[2023-09-27 23:08:57]config file: OK
+[2023-09-27 23:08:57]folder: ONLINE
+[2023-09-27 23:08:57]backup: ONLINE
+[2023-09-27 23:08:57]test.txt is up to date
+[2023-09-27 23:08:57]CV_SerbanPricop.pdf is up to date
+[2023-09-27 23:08:57]test2.txt is copied
+[2023-09-27 23:09:12]file is up to date
+[2023-09-27 23:09:53]Start
+[2023-09-27 23:09:53]config file: OK
+[2023-09-27 23:11:33]file is up to date
+[2023-09-27 23:13:00]Start
+[2023-09-27 23:13:00]config file: OK
+[2023-09-27 23:13:00]file is up to date
+[2023-09-27 23:13:15]file is up to date
+[2023-09-27 23:13:30]folder: ONLINE
+[2023-09-27 23:13:30]backup: ONLINE
+[2023-09-27 23:13:30]test2.txt is up to date
+[2023-09-27 23:13:30]test.txt is up to date
+[2023-09-27 23:13:30]CV_SerbanPricop.pdf is up to date
+[2023-09-27 23:13:30]ttt.txt is copied
+[2023-09-27 23:13:45]file is up to date
+[2023-09-27 23:14:00]file is up to date
+[2023-09-27 23:14:15]folder: ONLINE
+[2023-09-27 23:14:15]backup: ONLINE
+[2023-09-27 23:14:15]ttt.txt is updated
+[2023-09-27 23:14:15]test2.txt is up to date
+[2023-09-27 23:14:15]test.txt is up to date
+[2023-09-27 23:14:15]CV_SerbanPricop.pdf is up to date
+[2023-09-27 23:14:30]file is up to date
+[2023-09-27 23:14:45]file is up to date
+[2023-09-27 23:15:00]file is up to date
+[2023-09-27 23:15:15]file is up to date
+[2023-09-27 23:15:30]file is up to date
+[2023-09-27 23:15:45]file is up to date
+[2023-09-27 23:16:00]file is up to date
+[2023-09-27 23:16:15]file is up to date
+[2023-09-27 23:16:30]file is up to date
+[2023-09-27 23:16:45]file is up to date
+[2023-09-27 23:17:00]file is up to date
+[2023-09-27 23:17:15]file is up to date
+[2023-09-27 23:17:30]folder: ONLINE
+[2023-09-27 23:17:30]backup: ONLINE
+[2023-09-27 23:17:30]ttt.txt is updated
+[2023-09-27 23:17:30]test2.txt is up to date
+[2023-09-27 23:17:30]test.txt is up to date
+[2023-09-27 23:17:30]CV_SerbanPricop.pdf is up to date
+[2023-09-27 23:17:45]file is up to date
+[2023-09-27 23:18:00]file is up to date
+[2023-09-27 23:18:15]file is up to date
+[2023-09-27 23:18:30]file is up to date
+[2023-09-27 23:18:39]Start
+[2023-09-27 23:18:39]config file: OK
+[2023-09-27 23:18:39]file is up to date
