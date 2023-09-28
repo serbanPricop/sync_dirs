@@ -64,16 +64,16 @@ if os.path.isfile('config.txt'):
 else:
     log('config file: NOT FOUND')
     print("config file: NOT FOUND")
-    # register folder
+    # register dirs
     root_dir = input('Root dir path:')
     replica_dir = input('Replica dir path:')
     time_interval = input('Please specify time interval(minutes):')
-    # check if folder is exist
+    # check if root is exist
     if not os.path.isdir(root_dir):
         log('root: NOT FOUND')
         print('Root folder does not exist')
         exit()
-    # check if backup is exist
+    # check if replica is exist
     if not os.path.isdir(replica_dir):
         log('replica: NOT FOUND')
         print('Replica folder does not exist')
@@ -98,27 +98,27 @@ while True:
         time.sleep(convert_to_seconds(time_interval))
         continue    
 
-    # check folder
+    # check root
     if os.path.isdir(root_dir):
-        print('folder: ONLINE')
-        log('folder: ONLINE')
+        print('root: FOUND')
+        log('root: FOUND')
     else:
         print('folder is not exist')
         log('folder is not exist')
         print('please check your config file')
         break
 
-    # check backup
+    # check replica
     if os.path.isdir(replica_dir):
-        print('backup: ONLINE')
-        log('backup: ONLINE')
+        print('replica: FOUND')
+        log('replica: FOUND')
     else:
-        print('backup is not exist')
-        log('backup is not exist')
-        print('please check your config file')
+        print('Replica dir does not exist')
+        log('Replica dir does not exist')
+        print('Please check your config file')
         break
 
-    # check file hash in folder and compare with backup
+    # check file hash in root and compare with replica
     countSync = 0
     updateFile = 0
     deleteFile = 0

@@ -1,3 +1,3 @@
 # sync_dirs
-Sync replica folder with any root files change
 
+Sync replica folder with any root files change
